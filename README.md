@@ -1,11 +1,15 @@
 # my-chat
 Chat para troca de mensagens entre duas instâncias através do protocolo TCP
 
-## Dados de entrada
+### Dados de entrada
 
- Nome: Nome do usuário desta instância do chat.
+ Nome: 
+ 
+        Nome do usuário desta instância do chat.
 
- Tipo: Servidor ou Cliente.
+ Tipo: 
+ 
+        Servidor ou Cliente.
 
  Endereço: 
         
